@@ -1,0 +1,148 @@
+@font-face {
+    font-family: circuler-std-medium;
+    src: url(../font/CircularStd-Medium.ttf);
+}
+
+@font-face {
+    font-family: circuler-std-book;
+    src: url(../font/CircularStd-Book.ttf);
+}
+
+@font-face {
+    font-family: circuler-std-bold;
+    src: url(../font/CircularStd-Bold.ttf);
+}
+
+.wotnot-header {
+    font-family: circuler-std-medium;
+    font-size: 22px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.55;
+    letter-spacing: normal;
+    text-align: left;
+    color: #2d2f39;
+}
+
+.instruction-header {
+    font-family: circuler-std-bold;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: left;
+    color: #2d2f39;
+}
+
+.instruction-text {
+    font-family: circuler-std-book;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.46;
+    letter-spacing: normal;
+    text-align: left;
+    color: #2d2f39;
+}
+
+.instruction-link {
+    color: #0673ae;
+}
+
+.chatbot-snippet-title {
+    font-family: circuler-std-bold;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: left;
+    color: #2d2f39;
+}
+
+#save-btn {
+    font-family: circuler-std-medium;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    padding: 0px 11px;
+    border-radius: 2px;
+}
+
+p.wotnot-submit {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+}
+
+.wotnot-note {
+    padding-bottom: 70px;
+}
+
+.wotnot-card {
+    margin-bottom: 17px;
+}
+
+#wotnot-card-header {
+    padding-bottom: 0 !important;
+    font-family: circuler-std-bold;
+    font-size: 12px !important;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.83;
+    letter-spacing: normal;
+    text-align: left;
+    color: #2d2f39;
+}
+
+#wotnot-card-description {
+    font-family: circuler-std-book;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #2d2f39;
+    margin-top: 0;
+    padding-right: 30px;
+}
+
+.wp-core-ui p .wotnot-card-button,
+.wp-core-ui .wotnot-card-button {
+    border-radius: 2px !important;
+    border: solid 1px #d7d7d7;
+    background-color: #ffffff;
+    font-family: circuler-std-medium;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    min-height: 0;
+    letter-spacing: normal;
+    text-align: left;
+    color: #2d2f39;
+}
+
+.wp-core-ui .wotnot-button-div {
+    margin-top: 10px;
+}
+
+.wrap .tutorial-button {
+    border-radius: 2px;
+    border: solid 1px #d7d7d7;
+    background-color: #ffffff;
+    font-size: 12px;
+    color: #0673ae;
+}
